@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".Coba"
+    >
+
+    <!--<item-->
+        <!--android:title="Gallery"-->
+        <!--android:orderInCategory="100"-->
+        <!--android:id="@+id/itemgallery"-->
+        <!--app:showAsAction="never"-->
+        <!--/>-->
+
+    <item
+        android:id="@+id/itemChoose"
+        android:orderInCategory="100"
+        android:title="@string/pilih"
+        app:showAsAction="never"
+        />
+    <!--<item-->
+        <!--android:title="@string/setting"-->
+        <!--android:orderInCategory="100"-->
+        <!--android:id="@+id/itemAboutUs"-->
+        <!--app:showAsAction="never"-->
+        <!--/>-->
+
+    <item
+        android:title="Simpan"
+        android:orderInCategory="100"
+        android:id="@+id/itemSaveImages"
+        app:showAsAction="never"
+        />
+    <item
+        android:title="Compare"
+        android:orderInCategory="100"
+        android:id="@+id/itemcompare"
+        app:showAsAction="never"
+        />
+    <item
+        android:title="Kembali"
+        android:orderInCategory="100"
+        android:id="@+id/itemkembali"
+        app:showAsAction="never"
+        />
+
+
+</menu>

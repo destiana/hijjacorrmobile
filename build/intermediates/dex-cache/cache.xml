@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_badcc59626c8bf60fbd570ba883ac0f8d5c9be7a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\exploded-aar\com.github.futuresimple\android-floating-action-button\1.10.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f02a84e37b6cdd1eb3073aae7ca9b6353b3d5eb3">
+        <dex dex="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.futuresimple-android-floating-action-button-1.10.1_548be52dd9e47bb05ed3a887daec7b78427b440b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.1_5014f5defed0db0d656f557fefe89b087405b952\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="08d34b2d135c1cc96ab506fd8bf6916d1e2f391a">
+        <dex dex="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-8.4.0_c0dd653bcce55464b5bc8ff02cbd52db413a5d7a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.1_6d8c416c3e4f6592a9540b35d0b6a40748d245a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_5e4d3a1d964ee57bd5e0bef45316d10eae6af137\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b36f30ac5ee5d5214f4b1e2ac49f11889d58e71a">
+        <dex dex="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-8.4.0_b2c459e3972678930c5a145e4d2fd9d8b8e77856\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9cad249cf62751a323d9af568caf12284b7d6062">
+        <dex dex="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-8.4.0_330da1ad9fb64e66ca0cfff7fdb30c2602d3f7be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3a364cc6b698d1b3b2d284f64618daaa7fe77ddf">
+        <dex dex="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-8.4.0_9197540e33c32f8c96178778809f55fdeb5146ff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.1_8ab4879e4a241a116c64b377611fd04d74fd94a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_6e92e867d88fcd3a644f769f04edcd15446c71bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-23.0.0_5107ac8fc35825e36529c3ac0ff3d4e4aa198923\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-25.0.1_f4eaa45b9c0b6827b68c77cf217670f2b8ed6489\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-8.4.0_6253b4ed3ce297e2c0d64209b09c9f00ed0cbb9f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-8.4.0_cc3795d0fe23bb2a338091ce4e5f6a112364a1fe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\exploded-aar\com.github.bluejamesbond\textjustify-android\2.1.6\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a298f4b67b4898200c47cfd4f5bf2f221c657766">
+        <dex dex="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.bluejamesbond-textjustify-android-2.1.6_b59b349b4215a0a6cf07c55415ebd41d86e62e2e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_f85fb04a4a72fc63b479ae592b14d6e8bf3e3804\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0194a7409c40de94fb539d4ad9928ec5d47afeb7">
+        <dex dex="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-8.4.0_8abe5ae1ecab50fad26a69da8d078daefb520284\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="913d6ef1f11bc0ec6a67b240509453520b2f30ff">
+        <dex dex="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_fe1b6bff13a7475607542aa6af6f0579a56bb593\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.mcxiaoke.volley\library\1.0.18\38da306aafee11459cd935a01d2c92a98dc670a4\library-1.0.18.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="38da306aafee11459cd935a01d2c92a98dc670a4">
+        <dex dex="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-1.0.18_ced074a3243841be93cbe9b98d5bebebb322f727\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.1_3638682074fccbc242260055cdc3e4fdca395b22\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="dfecc4d835cdabcdecf7e95f0d20a3ef1e9d8ef4">
+        <dex dex="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-8.4.0_a289df68ecf6ba0223e1f327af41ce6b5891c743\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_f249a79356e7c630a4cec2a9c942a2cb8d52d618\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.0.1_a89d27b61fda79796066bf314f2d8b82ed026856\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-8.4.0_eb4c47e0c2de8ba37860a317abbf3f78ab692f7b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f2df436a8f02ce7e4d7d209671fc45f97c470f0e">
+        <dex dex="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-8.4.0_80634642313eac3f7b0348148f027dc59dfb0d4b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="551e78f21acf69ebfb489c0e79647824c838013e">
+        <dex dex="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-8.4.0_69415f12a0c5a123d11563e068de48456ed53277\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="966e5771a5a2ebfb31bf00d7cd6cd2546d245517">
+        <dex dex="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-8.4.0_7717464b64aea6fe4154e576ea4f645bbb2d772f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-8.4.0_c1600642596edbbb677d3a999e632c1c584a444a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.1_474399a4734c3fef2571d2f4e6a1771593b3f457\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.1_ecea55dcd7a2023d43aa945381ef98ab32fd3dd8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-measurement-8.4.0_50a39d65bd7ed09abd56c22cca0d2c2cf8a72956\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="19f7ab276e394804df03a7d0f6884982a05e807f">
+        <dex dex="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_b4057838536a04067499c65c61ebb01097f36cab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9fe026fb4c7fce21bc5142f6e1bdf844f28061ac">
+        <dex dex="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-8.4.0_109841eaade3968717f1aa20f0489d28f0262753\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SMT3\RPL\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_619408280092e36244e5835a772dd42ed8bfdf86\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_f612231adffe078872982db67ebbce7c298062b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.4.0_2ac8fd69fe1886064144553c5ffc76cf7aa957f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e">
+        <dex dex="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-8.4.0_a75d09c0ac9cfcff2b74501920a034a06903baf8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c54246475c1bb64ac6857d1320364bfbfeda2c46">
+        <dex dex="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-8.4.0_dee1e1395150ea771762e62a3d9ba9d9f5016c0e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\exploded-aar\com.android.support\design\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.0.1_474d7c187f6510e8b31d0edd7136025cb6dcafff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.1_0c89fe0bbd5391fe40c4f29796bbf6ee2d614f7c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b82b8e847173c28efffcd291b2a0b1ae9ad17fa4">
+        <dex dex="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-8.4.0_dc0c1dd8f659eb1dcc3139f0fdf340ac150285d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1a78298e7724d5440d210bcb946b3493250d354d">
+        <dex dex="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-8.4.0_36ce8de32fd02f8e2d7556bdea54e7385a198953\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.1_64c0c0d735ca5b3b6e3361b33960bc3b2a83750a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-8.4.0_960c9d1ca2fe5d294c9146f4cc6fda26ba9334ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-8.4.0_39591bb70541cafb878259f7984f960ec5dfaccb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\exploded-aar\com.isseiaoki\simplecropview\1.0.16\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="293f4674e4721e5355e232dd88603b88ca2a53f0">
+        <dex dex="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.isseiaoki-simplecropview-1.0.16_5dff7b4d40dd4c364e5725e5b25b9041d4a0bee6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_93f7fe6b5f5c01fd1768e164e33388626a8de3ba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-8.4.0_d080e6be5338145191124f03223e08aef014a272\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_8bb85e94510c879cc49e4c64e2910f252ee5bdbc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.1_5de47fe6413212ec2165a202677aa6594972b8a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="E:\SMT3\RPL\Android\Project\tampilanawal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.0.1_56387c3226542168c53cac81b8b33928ef8df5ff\classes.dex" />
+    </item>
+
+</items>
